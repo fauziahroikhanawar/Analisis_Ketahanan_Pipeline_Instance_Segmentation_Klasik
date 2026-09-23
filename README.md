@@ -8,7 +8,7 @@ Proyek ini menguji ketahanan pipeline instance segmentation berbasis pengolahan 
 - Menganalisis efektivitas setiap tahapan pipeline dalam menangani variasi kontras dan bayangan.
 - Mengevaluasi Distance Transform & Watershed dalam memisahkan objek yang berdempetan (oklusi).
 
-## 🛠️ Tools & Library
+## Tools & Library
 - Python 3
 - OpenCV (image processing)
 - NumPy (operasi numerik)
